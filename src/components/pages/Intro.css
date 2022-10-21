@@ -1,0 +1,26 @@
+.intro {
+    text-align: left;
+    padding-left: 175px;
+    padding-top: 125px;
+}
+
+.intro-title {
+    font-family: 'DinaRemasterII';
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+
+.intro-title__small {
+    font-size: 45px;
+    color: #eb3f44;
+}
+
+.intro-title__big {
+    font-size: 70px;
+}
+
+.intro-description {
+    font-size: 24px;
+    padding-right: 55%;
+    padding-top: 25px;
+}
