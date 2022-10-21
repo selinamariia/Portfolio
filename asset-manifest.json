@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.cfb5db5e.css",
+    "main.js": "/Portfolio/static/js/main.c95504b8.js",
+    "static/media/ProggyCrossed Regular.ttf": "/Portfolio/static/media/ProggyCrossed Regular.f0d6e9afaac0e4c637c9.ttf",
+    "static/media/DinaRemasterII.ttc": "/Portfolio/static/media/DinaRemasterII.cc97af15291cf6daee5e.ttc",
+    "index.html": "/Portfolio/index.html",
+    "main.cfb5db5e.css.map": "/Portfolio/static/css/main.cfb5db5e.css.map",
+    "main.c95504b8.js.map": "/Portfolio/static/js/main.c95504b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfb5db5e.css",
+    "static/js/main.c95504b8.js"
+  ]
+}
